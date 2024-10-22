@@ -8,7 +8,7 @@ Hello! I'm Manish, a passionate developer and tech enthusiast. Here you'll find 
 - 🌱 I’m learning backend development.
 - 👯 I’m looking to collaborate on projects.
 - 💬 Ask me about my life.
-- ⚡ Fun fact: Badminton.
+- ⚡ Fun fact: Political entusiast.
 
 ## 📈 My Projects
 
@@ -24,15 +24,15 @@ I love collaborating with others! If you're interested in working together, or i
 
 - Open an issue in one of my repositories
 - Send me a direct message on [Social Media Platform]
-- Email me at [Your Email Address]
+- Email me at manish85294@gmail.com
 
 ## 🛠️ Technologies & Tools
 
 I work with a variety of technologies, including:
 
-- Languages: [List programming languages]
-- Frameworks: [List frameworks]
-- Tools: [List tools and platforms]
+- Languages: Python, C/C++, Java Script
+- Frameworks: Django
+- Tools: Git
 
 ## 📫 Get in Touch
 
